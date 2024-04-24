@@ -44,7 +44,7 @@
 - ![Image](cat-directory.png)
 - The absolute path of the working directory right before I run the command is `/Users/CS/CSE15L`.
 - The output that I receive after using the command with a path to a directory outputs that the directory I attempted is a directory. This is because the command `cat` is used to show the contents of a file and not a directory.
-- It is not an error.
+- It is an error because `cat` cat: lab1: is a directory indicates that a file was expected but received a directory. (was the feedback i received on my lab report false, i am confused)
 
 9. cat (path to file)
 - ![Image](cat-file.png)
