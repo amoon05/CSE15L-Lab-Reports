@@ -6,7 +6,7 @@ Part 1:
     - In the `handleRequest` method, the argument `url` represents the requested URL. The value of the relevant field is   `fullMessage`.
     - The value of `fullMessage` will be updated as it the inputs for `user` and `message` is added together.
 
-  - scrrenshot #2: ![Image](lab2screenshot2.png)
+  - screenshot #2: ![Image](lab2screenshot2.png)
     - The `handleRequest` method is being is being called.
     - In the `handleRequest` method, the argument `url` represents the requested URL. The value of the relevant field is   `fullMessage`.
     - The value of `fullMessage` will be updated as it the inputs for `user` and `message` is added together.
