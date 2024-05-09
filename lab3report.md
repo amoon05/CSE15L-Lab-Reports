@@ -137,7 +137,7 @@ public class LinkedListTest {
 
 - Results Screenshots
   - The results for the failed test: ![Image](lab3failed.png)
-  - The results for the successful test: ![Image](lab3sucessful.png)
+  - The results for the successful test: ![Image](lab3successful.png)
 
 - The bug is in this section
 Before: 
